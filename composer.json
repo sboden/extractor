@@ -1,5 +1,5 @@
 {
-    "name": "php-translation/extractor",
+    "name": "sboden/extractor",
     "description": "Extract translations form the source code",
     "license": "MIT",
     "authors": [
